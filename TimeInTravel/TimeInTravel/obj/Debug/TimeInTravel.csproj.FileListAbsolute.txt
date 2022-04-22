@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\TimeInTravel\TimeInTravel\obj\Debug\TimeInTravel.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\TimeInTravel\TimeInTravel\obj\Debug\TimeInTravel.Form1.resources
+C:\Users\Asus\Desktop\TimeInTravel\TimeInTravel\obj\Debug\TimeInTravel.Properties.Resources.resources
+C:\Users\Asus\Desktop\TimeInTravel\TimeInTravel\obj\Debug\TimeInTravel.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\TimeInTravel\TimeInTravel\obj\Debug\TimeInTravel.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\TimeInTravel\TimeInTravel\bin\Debug\TimeInTravel.exe.config
+C:\Users\Asus\Desktop\TimeInTravel\TimeInTravel\bin\Debug\TimeInTravel.exe
+C:\Users\Asus\Desktop\TimeInTravel\TimeInTravel\bin\Debug\TimeInTravel.pdb
+C:\Users\Asus\Desktop\TimeInTravel\TimeInTravel\obj\Debug\TimeInTravel.exe
+C:\Users\Asus\Desktop\TimeInTravel\TimeInTravel\obj\Debug\TimeInTravel.pdb

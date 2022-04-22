@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeInTravel", "TimeInTravel\TimeInTravel.csproj", "{A6363E4B-D728-4CC8-AA27-3767E76894BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeInTravelTest", "TimeInTravelTest\TimeInTravelTest.csproj", "{3B5999D7-FC7B-4E6D-9DEE-4BDC744BF6AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6363E4B-D728-4CC8-AA27-3767E76894BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6363E4B-D728-4CC8-AA27-3767E76894BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6363E4B-D728-4CC8-AA27-3767E76894BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6363E4B-D728-4CC8-AA27-3767E76894BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5999D7-FC7B-4E6D-9DEE-4BDC744BF6AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5999D7-FC7B-4E6D-9DEE-4BDC744BF6AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5999D7-FC7B-4E6D-9DEE-4BDC744BF6AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5999D7-FC7B-4E6D-9DEE-4BDC744BF6AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D4E3E5-E6AD-4F53-8CAE-AF132E8D2AEF}
+	EndGlobalSection
+EndGlobal
